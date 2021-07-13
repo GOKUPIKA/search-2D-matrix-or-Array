@@ -1,4 +1,4 @@
-# search-2D-matrix-or-Array
+# search-2D-matrix
 
 **QUESTION:**
 
